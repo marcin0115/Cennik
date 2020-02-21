@@ -1,1 +1,1 @@
-# Projekt 'Cennik' wykonany za pomocą FlexBox
+# Project "Cennik" made with CSS FlexBox
