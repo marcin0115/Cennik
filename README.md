@@ -1,3 +1,5 @@
-# Project "Cennik" made with CSS FlexBox
+# Price-list
+
+Technologies: HTML, CSS (Flexbox)
 
 Link: https://marcin0115.github.io/Cennik/
